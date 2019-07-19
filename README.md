@@ -1,2 +1,2 @@
 # SIPP
- Mathematics scripts for the strong inner product propert
+ Mathematica scripts for the strong inner product property
